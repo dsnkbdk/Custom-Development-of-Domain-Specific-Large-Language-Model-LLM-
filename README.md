@@ -1,4 +1,4 @@
-# Domain-Specific Large Language Model
+# Domain-Specific Large Language Model (under construction)
 
 ## Overview
 This project sets up a Retrieval-Augmented Generation (RAG) pipeline utilizing the "mistral" model from Ollama. The notebook includes steps to install necessary dependencies, run the model in the background, and manage the asynchronous execution of tasks.
